@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Lab4</string>
+    <string name="ProfileActivity_text">This is the Profile Activity</string>
+    <string name="launch_profile">Launch Profile</string>
+    <string name="exit_and_save">Exit and Save</string>
+    <string name="name">Name</string>
+    <string name="status">Status</string>
+    <string name="show_counter">Show Counter</string>
+    <string name="show_my_profile">SHOW MY PROFILE</string>
+    <string name="show_counter_cap">SHOW COUNTER</string>
+    <string name="count_to">Count to</string>
+    <string name="go_back">Go Back</string>
 </resources>
